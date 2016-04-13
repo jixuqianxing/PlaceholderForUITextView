@@ -1,0 +1,3 @@
+# PlaceholderForUITextView
+
+分类实现给UITextView添加Placeholder。
