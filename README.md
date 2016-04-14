@@ -1,6 +1,8 @@
 # PlaceholderForUITextView
 
-分类实现给UITextView添加Placeholder。
+分类+Runtime实现给UITextView添加Placeholder。
+
+![image](https://github.com/jixuqianxing/PlaceholderForUITextView/blob/master/Screenshot/1.gif)
 
 使用方法：
 
@@ -9,4 +11,5 @@
 ````ruby
 _textView.placeholder = "继续前行"；
 ````
+
 
