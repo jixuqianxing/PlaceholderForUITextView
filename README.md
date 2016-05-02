@@ -6,7 +6,8 @@
 
 使用方法：
 
-导入 UITextView+Placeholder.h 
+导入 UITextView+Placeholder.h 头文件。
+
 
 ````ruby
 _textView.placeholder = @"继续前行"；
