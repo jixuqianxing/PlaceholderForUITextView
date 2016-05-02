@@ -9,7 +9,7 @@
 导入 UITextView+Placeholder.h 
 
 ````ruby
-_textView.placeholder = "继续前行"；
+_textView.placeholder = @"继续前行"；
 ````
 
 
